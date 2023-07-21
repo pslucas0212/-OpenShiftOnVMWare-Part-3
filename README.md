@@ -2,7 +2,7 @@
 
 
 [Installing OpenShift on vMWare and Deploying a Sample Application - Part 1](https://github.com/pslucas0212/OpenShiftOnVMWare-Part-1)  
-[Installing OpenShift on vMWare and Deploying a Sample Application - Part 2](https://github.com/pslucas0212/OpenShiftOnVMWare-Part-2)
+[Installing OpenShift on vMWare and Deploying a Sample Application - Part 2](https://github.com/pslucas0212/OpenShiftOnVMWare-Part-2)  
 By Paul Lucas
 
 The release of Red Hat OpenShift 4.7 added a new vSphere Installer Provisioned Installation (IPI) option that makes it very easy to quickly provision an OpenShift cluster in a VMWare EXSi environment.  This cluster could be used for some quick testing or development.
